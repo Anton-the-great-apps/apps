@@ -1,6 +1,7 @@
 body {
-    font-family: 'Arial Rounded MT'
+    font-family: 'Arial Rounded MT';
+    background-color: honeydew
 }
 ul {
-    list-style-position: inside
+    list-style-position: inside;
 }
